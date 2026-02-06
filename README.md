@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I work on AI projects, network systems, and scalab
 
 🔧 Skills & Tools
 
-- **Programming:** Python, C++, SQL, Java
+- **Programming:** Python, C++, SQL, PHP
 - **Machine Learning & AI:** PyTorch, Transformers, Hugging Face, Probability & Statistics
 - **Systems & Platforms:** IoT, Telegram Bots, Network Monitoring
 
