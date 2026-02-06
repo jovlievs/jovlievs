@@ -1,32 +1,47 @@
 👋 Hi, I'm Abbos!
-🌟 Computer Engineering Graduate | AI/ML Enthusiast | Network Engineer
 
-I am passionate about understanding the mathematical foundations of AI and applying them to real-world problems. 
+🌟 Computer Engineering Graduate | AI & Machine Learning Enthusiast | Network Engineer
 
-🚀Work experience 
+Welcome to my GitHub profile! I work on AI projects, network systems, and scalable applications. Currently, I’m exploring the **mathematical foundations of AI** and developing practical systems in **Machine Learning**.
 
-Developed Ovoza, fine-tuning transformer-based model for STT/TTS with low-resource language data.
+---
 
-Built SmartTester, a Telegram bot serving 70k+ active users, combining AI insights with scalable system design.
+🚀 About Me
 
-Applied probabilistic reasoning and statistical analysis to understand model stability, generalization, and behavior in practical settings.
+- 🎓 **Education:** BSc in Computer Engineering, Tashkent University of Information Technologies (Ranked 1st in faculty admissions)
+- 💼 **Experience:**
+  - Network Engineer at **ZTE Uzbekistan**, optimizing microwave transmission links and performing data-driven network diagnostics.
+  - Part-time IT and Math tutor, teaching programming and problem-solving skills.
+- 💻 **Projects:**
+  - **SmartTester** — Telegram bot serving 70k+ active users
+  - **Ovoza** — Uzbek speech-to-text/text-to-speech system with transformer-based models
+- 🌍 **Location:** Tashkent, Uzbekistan
+- 🌱 **Interests:** AI/ML research, competitive programming, problem-solving, chess
 
-Network engineering work at ZTE Uzbekistan, applying data-driven analysis to diagnose and optimize real-time systems.
+---
 
-💻 Skills & Tools
+🔧 Skills & Tools
 
-Programming: Python, C++, SQL, PHP
+- **Programming:** Python, C++, SQL, Java
+- **Machine Learning & AI:** PyTorch, Transformers, Hugging Face, Probability & Statistics
+- **Systems & Platforms:** IoT, Telegram Bots, Network Monitoring
 
-Machine Learning: PyTorch, Hugging Face, Transformers
+---
 
-AI & Data Analysis: Probability, Statistics, Linear Algebra, Model Optimization
+🌟 What I’m Working On
 
-Systems: IoT, Network Monitoring, Telegram Bots
+- 🔭 **Ovoza** — Improving STT/TTS models for low-resource languages
+- 🚀 **SmartTester** — Scaling AI-driven Telegram solutions
+- 📌 **Research Focus:** Stability, generalization, and interpretability of learning algorithms in high-dimensional and dynamic environments
 
-🌟 Research Interests
+---
 
-Mathematical principles behind learning algorithms, stability, and convergence
+🏆 Achievements
 
-Designing AI systems that are robust, interpretable, and efficient
+- 🥇 1st Place, Regional Physics Olympiad (Qashqadaryo Region)
+- 🥈 Silver Honour, International Youth Math Challenge
+- 💡 ICPC Uzbekistan-Tajikistan Regional Qualifier Participant
+- 🎓 Ranked 1st in faculty admissions, TUIT
 
-Bridging theory and practice in low-resource languages, network systems, and applied ML
+---
+
