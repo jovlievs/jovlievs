@@ -36,12 +36,5 @@ Welcome to my GitHub profile! I work on AI projects, network systems, and scalab
 
 ---
 
-🏆 Achievements
-
-- 🥇 1st Place, Regional Physics Olympiad (Qashqadaryo Region)
-- 🥈 Silver Honour, International Youth Math Challenge
-- 💡 ICPC Uzbekistan-Tajikistan Regional Qualifier Participant
-- 🎓 Ranked 1st in faculty admissions, TUIT
-
 ---
 
