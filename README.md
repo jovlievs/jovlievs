@@ -2,7 +2,7 @@
 
 🌟 Computer Engineering Graduate | AI & Machine Learning Enthusiast | Network Engineer
 
-Welcome to my GitHub profile! I work on AI projects, network systems, and scalable applications. Currently, I’m exploring the **mathematical foundations of AI** and developing practical systems in **Machine Learning**.
+Welcome to my GitHub profile! I work on AI projects, network systems, and scalable applications. Currently, I’m exploring the **mathematical foundations of AI**.
 
 ---
 
