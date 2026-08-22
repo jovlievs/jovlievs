@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I work on AI projects, network systems, and scalab
 
 - **Programming:** Python, C++, SQL, PHP
 - **Machine Learning & AI:** PyTorch, Transformers, Hugging Face, Probability & Statistics
-- ** Data Engineering ** MS fabric, Azure SQL, PySpark, T-SQL, Databricks
+- **Data Engineering** MS fabric, Azure SQL, PySpark, T-SQL, Databricks
 - **Systems & Platforms:** IoT, Telegram Bots, Network Monitoring
 
 ---
