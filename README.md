@@ -1,6 +1,6 @@
 👋 Hi, I'm Abbos!
 
-🌟 Computer Engineering Graduate | AI & Machine Learning Enthusiast | Network Engineer
+🌟 Computer Engineering Graduate | AI & Machine Learning Enthusiast | Network Engineer | Data Engineer Trainee
 
 Welcome to my GitHub profile! I work on AI projects, network systems, and scalable applications. Currently, I’m exploring the **mathematical foundations of AI**.
 
