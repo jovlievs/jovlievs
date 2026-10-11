@@ -2,7 +2,7 @@
 
 **Computer Engineering Graduate · Data Engineer · Network Engineer · AI/ML Enthusiast**
 
-Tashkent, Uzbekistan · [LinkedIn](https://linkedin.com/in/abbos-jovliev/) · [GitHub](https://github.com/jovlievs) · jovliyevabbosjon@gmail.com
+Tashkent, Uzbekistan · [LinkedIn](https://linkedin.com/in/abbos-jovliev/) · jovliyevabbosjon@gmail.com
 
 ---
 
